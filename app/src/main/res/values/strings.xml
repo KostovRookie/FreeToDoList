@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">To-Do App</string>
+    <string name="app_name">Free TODO</string>
     <string name="profile">Profile</string>
     <string name="username">Username</string>
     <string name="dark_mode">Dark Mode</string>
