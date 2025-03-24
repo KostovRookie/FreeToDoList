@@ -12,5 +12,8 @@ data class TaskEntity(
     val description: String,
     val date: LocalDate,
     val time: LocalTime,
-    val urgency: Urgency
+    val urgency: Urgency,
+    val status: TaskStatus = TaskStatus.TODO,
+    val isCompleted: Boolean = false,
+    val group: String = "General"
 )

@@ -1,4 +1,4 @@
-package com.kostov.freetodolist
+package com.kostov.freetodolist.app
 
 import android.app.Application
 import com.kostov.freetodolist.di.localModule

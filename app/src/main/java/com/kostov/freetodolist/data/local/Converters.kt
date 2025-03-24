@@ -9,9 +9,13 @@ import java.time.LocalTime
 class Converters {
     @TypeConverter
     fun fromUrgency(value: Urgency): String = value.name
-
     @TypeConverter
     fun toUrgency(value: String): Urgency = Urgency.valueOf(value)
+
+    @TypeConverter
+    fun fromTaskStatus(value: TaskStatus): String = value.name
+    @TypeConverter
+    fun toTaskStatus(value: String): TaskStatus = TaskStatus.valueOf(value)
 
     @TypeConverter
     fun fromLocalDate(date: LocalDate): String = date.toString()

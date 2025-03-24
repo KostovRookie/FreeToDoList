@@ -16,4 +16,7 @@ interface TaskDao {
 
     @Query("SELECT * FROM tasks WHERE id = :id")
     suspend fun getTaskById(id: Int): TaskEntity?
+
+    @Update
+    suspend fun updateTask(task: TaskEntity)
 }

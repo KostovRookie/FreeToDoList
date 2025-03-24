@@ -81,6 +81,11 @@ dependencies {
     // Calendar (optional: Material3 Date Picker)
     implementation(libs.androidx.compose.material3.material3)
 
+
+    // DataStore
+    implementation(libs.androidx.datastore.preferences)
+
+
     // Testing
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)

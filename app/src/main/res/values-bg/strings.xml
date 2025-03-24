@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Списък със задачи</string>
+    <string name="profile">Профил</string>
+    <string name="username">Потребителско име</string>
+    <string name="dark_mode">Тъмен режим</string>
+    <string name="save">Запази</string>
+    <string name="generate_avatar">Генерирай моята снимка 😺</string>
+    <string name="view_tasks">Виж задачите</string>
+    <string name="return_to_today">Върни се към днешната дата</string>
+</resources>

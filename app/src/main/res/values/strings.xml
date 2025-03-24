@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">FreeToDoList</string>
+    <string name="app_name">To-Do App</string>
+    <string name="profile">Profile</string>
+    <string name="username">Username</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="save">Save Settings</string>
+    <string name="generate_avatar">Generate my profile picture 😺</string>
+    <string name="view_tasks">View Task</string>
+    <string name="return_to_today">Return to Current Day</string>
 </resources>
