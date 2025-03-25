@@ -1,4 +1,4 @@
-# 📝 To-Do App
+![image](https://github.com/user-attachments/assets/c02fb72d-7f7e-4573-a8ab-d8cee3e757be)# 📝 To-Do App
 
 A modern Android To-Do List app built with Jetpack Compose, featuring a calendar, task grouping by urgency,
 dark/light mode, user profile, and adorable cat-themed avatar generation 🐱.
@@ -49,5 +49,9 @@ dark/light mode, user profile, and adorable cat-themed avatar generation 🐱.
 ##  Fun Touch
 
 - Use the **"Generate my profile picture "** button to fetch a random cat avatar via [CATAAS API](https://cataas.com)
+
+Link to Google App store: https://play.google.com/store/apps/details?id=com.kostov.freetodolist
+
+
 
 
