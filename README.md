@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c02fb72d-7f7e-4573-a8ab-d8cee3e757be)# 📝 To-Do App
+ 📝 To-Do App
 
 A modern Android To-Do List app built with Jetpack Compose, featuring a calendar, task grouping by urgency,
 dark/light mode, user profile, and adorable cat-themed avatar generation 🐱.
